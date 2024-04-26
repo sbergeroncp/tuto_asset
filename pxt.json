@@ -25,6 +25,11 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj",
-    "assetPack": true
+    "preferredEditor": "blocksprj",
+    "assetPack": true,
+    "yotta": {
+        "config": {
+            "PXT_GC_CHECKS": 1
+        }
+    }
 }
